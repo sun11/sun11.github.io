@@ -1,4 +1,6 @@
-### Digital Human Experiments
+---
+title: AIGC & Digital Human Demo
+---
 
 动漫视频合成
 
