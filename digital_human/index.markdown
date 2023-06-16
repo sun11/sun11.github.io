@@ -4,7 +4,11 @@ title: AIGC & Digital Human Demo
 
 动漫视频合成
 
-<iframe width="640" height="320" src="https://github.com/sun11/sun11.github.io/assets/994030/56088ff5-9334-428f-8ec7-7e1cd96740ae" frameborder="0" allowfullscreen></iframe>
+<video width="100%" max-height="100%" src="https://github.com/sun11/sun11.github.io/assets/994030/56088ff5-9334-428f-8ec7-7e1cd96740ae" type="video/mp4" 
+    autoplay="autoplay" controls="controls" loop="-1">
+    <p>你的浏览器不支持video标签.</p>
+</video>
+
 
 ---
 
@@ -28,4 +32,7 @@ title: AIGC & Digital Human Demo
 
 动漫说话人视频生成
 
-<iframe width="256" height="256" src="https://github.com/sun11/sun11.github.io/assets/994030/8613346d-0b20-43b2-bebe-640f1e68c8ad" frameborder="0" allowfullscreen></iframe>
+<video width="256" height="256" src="https://github.com/sun11/sun11.github.io/assets/994030/8613346d-0b20-43b2-bebe-640f1e68c8ad" type="video/mp4" 
+    controls="controls" loop="-1">
+    <p>你的浏览器不支持video标签.</p>
+</video>
